@@ -1,0 +1,7 @@
+[Study06 Spring+MyBatis 연동]
+
+[VO]
+1. MemberVo.java 작성
+
+[DAO]
+2. MemberDAO.java 작성
